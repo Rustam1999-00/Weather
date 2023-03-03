@@ -1,0 +1,21 @@
+
+
+
+.WeatherHome{
+    background-image: url("../assets/images/1617342031_2-p-oboi-bakhor-rasmlari-2.jpg");
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
+  padding-bottom: 200px;
+}
+.card{
+    border: 1px solid black;
+   /* background: url('../assets/images/white-cloud-blue-sky-sea_74190-4488.avif');
+   background-repeat: no-repeat;
+   background-size: 100% 100%; */
+   background-color: mediumblue;
+   display: flex;
+}
+.wethertext{
+    padding-top: 100px;
+    color: white;
+}
